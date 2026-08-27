@@ -13,6 +13,10 @@ Coletar power-ups ⚡
 Fazer a maior pontuação possível 🏆
 ⚡ Power-ups
 
+🔗 Link do Projeto
+
+👉 Acesse o projeto aqui
+
 O jogo possui dois tipos de power-ups:
 
 🛡️ Shield (Escudo)
