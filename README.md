@@ -8,7 +8,7 @@ O objetivo é conseguir a maior pontuação possível enquanto enfrenta uma quan
 
 ## 🔗 Link do Projeto
 
-👉 **[Acesse o projeto aqui](COLE_AQUI_O_LINK_DO_PROJETO)**
+👉 **[Acesse o projeto aqui](https://dcapulot.github.io/SpaceDodgerGame/)**
 
 ---
 
